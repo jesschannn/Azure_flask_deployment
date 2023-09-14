@@ -1,7 +1,7 @@
 # azure_flask_deployment
 Introducing Flask and Azure Deployment
 
-Deployed URL: [Jessica504 Flask](jessica-504-flask.azurewebsites.net)
+Deployed URL: (https://jessica-504-flask.azurewebsites.net/)
 # How to Set Up and Connect Google Shell to Github Repo
 
 1. Create a Github Repository and git clone the URL of the Github repository into a your Google Shell by using the code below.
